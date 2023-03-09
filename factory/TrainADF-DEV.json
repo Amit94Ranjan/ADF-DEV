@@ -1,0 +1,9 @@
+{
+	"name": "TrainADF-DEV",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "793ced42-27c5-4dbe-aa55-ee84fe99c642",
+		"tenantId": "687f51c3-0c5d-4905-84f8-97c683a5b9d1"
+	}
+}
